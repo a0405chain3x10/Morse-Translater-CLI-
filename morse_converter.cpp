@@ -181,10 +181,10 @@ class converter
             void showHelp() 
             {
                 cout << " Morse Code Legend:"<<endl;
-                cout << "  • Letters separated by spaces"<<endl;;
-                cout << "  • Words separated by '/'"<<endl;
-                cout << "  • Unknown tokens will show as '?'"<<endl;
-                cout << "  • Example: .... . .-.. .-.. --- / .-- --- .-. .-.. -.."<<endl;
+                cout << " Letters separated by spaces"<<endl;;
+                cout << " Words separated by '/'"<<endl;
+                cout << " Unknown tokens will show as '?'"<<endl;
+                cout << " Example: .... . .-.. .-.. --- / .-- --- .-. .-.. -.."<<endl;
             }
 
 };
@@ -235,4 +235,5 @@ int main()
             break;
         }
     }
+
 }
