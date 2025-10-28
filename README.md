@@ -46,3 +46,13 @@ String Output : HELLO WORLD
 🤝 Contributing
 Feel free to fork, star, or submit issues and suggestions.
 This project was built as a hands-on learning exercise — feedback is always welcome!
+
+---
+<img width="1478" height="418" alt="Screenshot 2025-10-29 000903" src="https://github.com/user-attachments/assets/49281b83-52e6-4be2-83c5-48c23cab9ae3" />
+
+---
+
+<img width="1473" height="409" alt="Screenshot 2025-10-29 000930" src="https://github.com/user-attachments/assets/7a95b14f-f8b1-40f0-81ae-6651b8515f16" />
+
+
+
